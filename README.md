@@ -3,7 +3,9 @@
 ## Overview
 This repository contains a Power BI project that analyzes the sales data of a store with branches all over the world. The Power BI dashboard provides visualizations and insights into the sales performance based on various dimensions, such as region, city, category, ship mode, and more.
 
-![Dashboard Screenshot](C:\Users\naise\Pictures\Screenshots)
+
+![globalsuperstore](https://github.com/Naiseenata/Powerbi-Project/assets/133760008/1c05e1f1-1591-4b62-96ba-7a264e938cc7)
+
 
 ## Dataset
 The dataset used in this Power BI project is stored in a spreadsheet and contains sales data from the store's branches worldwide. The dataset includes information such as sales, profit, product category, shipping methods, regions, cities, and more.
